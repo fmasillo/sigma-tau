@@ -9,7 +9,8 @@ File hc.c contains the code for generating the Hamiltonian cycle with the rule p
 If you use this code in academic settings, please cite our paper:
 ```
   @inproceedings{LiptakMNW2023,
-    author    = {{\relax Zs}uzsanna Lipt{\'{a}}k and Francesco Masillo and Gonzalo Navarro and Aaron Williams},
+    author    = {{\relax Zs}uzsanna Lipt{\'{a}}k and Francesco Masillo
+                and Gonzalo Navarro and Aaron Williams},
     title     = {Constant Time and Space Updates for the Sigma-Tau Problem},
     booktitle = {30th International Symposium On String Processing and Information Retrieval, 
                 {SPIRE} 2023, September 26-28, 2023, Pisa, Italy},
