@@ -2,8 +2,8 @@
 
 This repository contains three C code files for constructing the Hamiltonian path(s) and the Hamiltonian cycle in the Sigma-Tau graph.
 
-File hp.c contains the code for generating the Hamiltonian path with the rule present in [1].
-File hp_prime.c contains the code for generating the Hamiltonian path with the rule present in [2].
+File hp.c contains the code for generating the Hamiltonian path with the rule present in [1]. \
+File hp_prime.c contains the code for generating the Hamiltonian path with the rule present in [2]. \
 File hc.c contains the code for generating the Hamiltonian cycle with the rule present in [2].
 
 If you use this code in academic settings, please cite our paper:
