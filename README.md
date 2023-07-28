@@ -18,5 +18,7 @@ If you use this code in academic settings, please cite our paper:
 ```
 
 Bibliography:
+
 [1] Joe Sawada, Aaron Williams: A Hamilton Path for the Sigma-Tau Problem. SODA 2018: 568-575
+
 [2] Joe Sawada, Aaron Williams: Solving the Sigma-Tau Problem. ACM Trans. Algorithms 16(1): 11:1-11:17 (2020)
